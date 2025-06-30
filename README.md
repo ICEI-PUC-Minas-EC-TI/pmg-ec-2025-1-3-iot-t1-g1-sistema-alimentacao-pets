@@ -1,30 +1,29 @@
-# TÍTULO DO PROJETO
+# Sistema Inteligente de Alimentação e Hidratação para Pets
 
-`CAMPUS`
+`Coração Eucarístico`
 
-`CURSO`
+`Engenharia de Computação`
 
-`SEMESTRE`
+`3º Período`
 
-`DISCIPLINA`
+`Internet das Coisas (IoT) e Banco de Dados`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bárbara Maria Sampaio Portes
+
+* Samir da Morim Cambraia
 
 ## Orientador
 
-* Nome completo do professor 1 (Nome do professor de IoT1)
-* Nome completo do professor 2 (Nome do professor de Banco de Dados)
+* Júlio C. D. Conway (Professor de Internet das Coisas)
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto detalha o desenvolvimento de um "Sistema Inteligente de Alimentação e Hidratação para Pets", uma solução de Internet das Coisas (IoT) projetada para resolver o desafio de cuidar de animais de estimação remotamente. O sistema consiste em um dispositivo físico, baseado no microcontrolador ESP32, que monitora e controla o fornecimento de alimento e água. A comunicação com a nuvem é realizada através do protocolo MQTT, permitindo que o tutor monitore e controle o dispositivo em tempo real por meio de um aplicativo mobile.
+
+O protótipo foi validado utilizando uma montagem em protoboard, com botões e LEDs simulando os sensores e atuadores. A arquitetura de software inclui, além do firmware do dispositivo, um backend em Python que persiste todos os dados de eventos em um banco de dados MySQL. O trabalho abrange desde a concepção do projeto, passando pelo desenvolvimento ágil com Scrum, até a fase de testes de integração, culminando em um protótipo funcional que demonstra a viabilidade da solução.
 
 # Código (do arduino ou esp32)
 
