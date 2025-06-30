@@ -1,4 +1,4 @@
-#Introdução
+# Introdução
 Este documento apresenta a concepção e o desenvolvimento do projeto "Sistema Inteligente de Alimentação e Hidratação para Pets", realizado no âmbito da disciplina de Internet das Coisas (IoT). O trabalho aborda a criação de uma solução tecnológica completa para um problema cotidiano enfrentado por tutores de animais de estimação. A visão geral do projeto engloba a automação do cuidado com pets através de um dispositivo conectado que monitora e fornece alimento e água, controlado remotamente por um aplicativo. O contexto do projeto é acadêmico, visando aplicar os conceitos de hardware embarcado, comunicação em nuvem via MQTT, e persistência de dados, culminando em um protótipo funcional que valida a arquitetura proposta e atinge os objetivos de garantir o bem-estar animal e a tranquilidade de seus donos.
 
 ##Problema
