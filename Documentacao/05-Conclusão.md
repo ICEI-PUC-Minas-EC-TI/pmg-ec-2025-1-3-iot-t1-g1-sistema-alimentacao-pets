@@ -4,14 +4,14 @@ O desenvolvimento do projeto "Sistema Inteligente de Alimentação e Hidrataçã
 # Trabalhos Futuros
 Para evoluir o protótipo atual para um produto final, as seguintes melhorias e funcionalidades são sugeridas:
 
-Finalização do Hardware: Concluir a montagem física do dispositivo, substituindo os componentes de simulação pelos sensores e atuadores reais, e realizar a calibração necessária.
+- Finalização do Hardware: Concluir a montagem física do dispositivo, substituindo os componentes de simulação pelos sensores e atuadores reais, e realizar a calibração necessária.
 
-Desenvolvimento de Aplicativo Nativo: Criar um aplicativo dedicado para Android e/ou iOS para oferecer uma experiência de usuário mais rica, com melhor design, notificações push nativas e funcionalidades avançadas.
+- Desenvolvimento de Aplicativo Nativo: Criar um aplicativo dedicado para Android e/ou iOS para oferecer uma experiência de usuário mais rica, com melhor design, notificações push nativas e funcionalidades avançadas.
 
-Implementação de Segurança: Migrar do broker MQTT público para uma solução privada e segura, implementando autenticação de clientes e criptografia TLS para proteger a comunicação.
+- Implementação de Segurança: Migrar do broker MQTT público para uma solução privada e segura, implementando autenticação de clientes e criptografia TLS para proteger a comunicação.
 
-Agendamento de Alimentação: Adicionar uma funcionalidade no aplicativo e no firmware que permita ao tutor programar horários e quantidades fixas para a alimentação automática.
+- Agendamento de Alimentação: Adicionar uma funcionalidade no aplicativo e no firmware que permita ao tutor programar horários e quantidades fixas para a alimentação automática.
 
-Dashboard de Análise: Criar uma interface web ou no próprio aplicativo que utilize os dados históricos do banco de dados para gerar gráficos e estatísticas sobre os hábitos de consumo do pet.
+- Dashboard de Análise: Criar uma interface web ou no próprio aplicativo que utilize os dados históricos do banco de dados para gerar gráficos e estatísticas sobre os hábitos de consumo do pet.
 
-Integração com Assistentes de Voz: Permitir que o usuário controle o alimentador através de comandos de voz com assistentes como Google Assistant ou Amazon Alexa.
+- Integração com Assistentes de Voz: Permitir que o usuário controle o alimentador através de comandos de voz com assistentes como Google Assistant ou Amazon Alexa.
